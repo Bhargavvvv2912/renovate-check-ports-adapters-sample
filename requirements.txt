@@ -4,7 +4,7 @@ chardet==3.0.4
 Click==7.0
 coloredlogs==10.0
 Flask==1.1.1
-Flask-RESTful==0.3.7
+Flask-RESTful==0.3.10
 gevent==1.4.0
 greenlet==0.4.15
 humanfriendly==4.18
